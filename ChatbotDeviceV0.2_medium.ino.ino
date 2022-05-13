@@ -21,8 +21,8 @@
 int LED1 = 13;
 String command; 
 
-const char* ssid = "HoneyMcHome_AP";
-const char* password = "honeymc3133";
+const char* ssid = "xxxx"; // your wifi name
+const char* password = "xxxx"; // your wifi password
 unsigned long lastTime = 0;
 unsigned long timerDelay = 500;
 unsigned long currentTime = millis();
